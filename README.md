@@ -1,4 +1,5 @@
 # Dynamic PPF Calculator
+https://vamsireddy17.github.io/public-provident-fund-calculator/
 
 A modern, interactive web application built with React to calculate and visualize Public Provident Fund (PPF) compounding over long investment periods.
 
